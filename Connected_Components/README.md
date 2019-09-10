@@ -1,4 +1,6 @@
-# Connected Components is a hard clustering algorithm which find cluster in connected/related data.
+# CONNECTED COMPONENTS GRAPH ALGO
+
+### Connected Components is a hard clustering algorithm which find cluster in connected/related data.
 
 ## Example :
 We have data about distance between 2 cities in the world and we need to find out in which countries these cities exist. (note : no 2 cities of different countries are connected)

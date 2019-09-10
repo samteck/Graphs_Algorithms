@@ -1,0 +1,8 @@
+#removing the mac metadata folder ./DS_Store
+.DS_Store
+
+#removing the visual studio folder
+.vscode
+
+#removing the visual studio workspace file
+Connected_Components/python-1.code-workspace
